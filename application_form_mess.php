@@ -57,7 +57,7 @@ session_start();
 							<a class="nav-link" href="home.php">Home <span class="sr-only">(current)</span></a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="services.php">Blocks</a>
+							<a class="nav-link" href="services.php">Hostels</a>
 						</li>
 					
 						<li class="nav-item">

@@ -53,7 +53,7 @@
 		<div class="container agile-banner_nav">
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
 
-				<h1><a class="navbar-brand" href="home.php">NITK<span class="display"></span></a></h1>
+			<a class="navbar-brand" href="home.php">HMS<span class="display"></span></a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 				</button>
@@ -65,7 +65,7 @@
 						</li>
 
 						<li class="nav-item active">
-							<a class="nav-link" href="services.php">Blocks</a>
+							<a class="nav-link" href="services.php">Hostels</a>
 						</li>						
 						<li class="nav-item">
 							<a class="nav-link" href="payment_form.php">Payment</a>
@@ -107,8 +107,8 @@
 						<div class="view view-tenth">
 							<div class="agile_text_box">
 								<i class="fas fa-bed" aria-hidden="true"></i>
-								<h3> Apply for A-Hostel</h3>
-								<p>A Hostel</p>
+								<h3> Apply for Alpha Hostel</h3>
+								<p>Alpha Hostel</p>
 							</div>
 							<div class="mask">
 								<a href="application_form.php?id=A"><img src="web_home/images/s1.jpg" class="img-responsive" alt="" /></a>
@@ -119,8 +119,8 @@
 						<div class="view view1 view-tenth">
 							<div class="agile_text_box">
 								<i class="fas fa-bed" aria-hidden="true"></i>
-								<h3>Apply for B-Hostel</h3>
-								<p>B Hostel</p>
+								<h3>Apply for Beta Hostel</h3>
+								<p>Beta Hostel</p>
 							</div>
 							<div class="mask">
 								<a href="application_form.php?id=B"><img src="web_home/images/s2.jpg" class="img-responsive" alt="" /></a>
@@ -132,8 +132,8 @@
 						<div class="view view2 view-tenth">
 							<div class="agile_text_box">
 								<i class="fas fa-bed" aria-hidden="true"></i>
-								<h3>Apply for C-Hostel</h3>
-								<p>C Hostel</p>
+								<h3>Apply for Gamma Hostel</h3>
+								<p>Gamma Hostel</p>
 							</div>
 							<div class="mask">
 								<a href="application_form.php?id=C"><img src="web_home/images/s3.jpg" class="img-responsive" alt="" /></a>
@@ -144,8 +144,8 @@
 						<div class="view view3 view-tenth">
 							<div class="agile_text_box">
 								<i class="fas fa-bed" aria-hidden="true"></i>
-								<h3>Apply for D-Hostel</h3>
-								<p>D Hostel</p>
+								<h3>Apply for Delta Hostel</h3>
+								<p>Delta Hostel</p>
 							</div>
 							<div class="mask">
 								<a href="application_form.php?id=D"><img src="web_home/images/s4.jpg" class="img-responsive" alt="" /></a>
@@ -171,8 +171,8 @@
 						<div class="view view1 view-tenth">
 							<div class="agile_text_box">
 								<i class="fas fa-bed" aria-hidden="true"></i>
-								<h3> Apply for E-Hostel</h3>
-								<p>E Hostel</p>
+								<h3> Apply for Epsilon Hostel</h3>
+								<p>Epsilon Hostel</p>
 							</div>
 							<div class="mask">
 								<a href="application_form.php?id=E"><img src="web_home/images/s2.jpg" class="img-responsive" alt="" /></a>
@@ -184,8 +184,8 @@
 						<div class="view view2 view-tenth">
 							<div class="agile_text_box">
 								<i class="fas fa-bed" aria-hidden="true"></i>
-								<h3>Apply for F-Hostel </h3>
-								<p>F Hostel</p>
+								<h3>Apply for Zeta Hostel </h3>
+								<p>Zeta Hostel</p>
 							</div>
 							<div class="mask">
 								<a href="application_form.php?id=F"><img src="web_home/images/s3.jpg" class="img-responsive" alt="" /></a>
@@ -207,7 +207,7 @@
 <footer class="py-5">
 	<div class="container py-md-5">
 		<div class="footer-logo mb-5 text-center">
-			<a class="navbar-brand" href="http://www.nitk.ac.in/" target="_blank">NITK <span class="display"> SURATHKAL</span></a>
+		<a class="navbar-brand" href="home.php">HMS<span class="display"></span></a>
 		</div>
 		<div class="footer-grid">
 
